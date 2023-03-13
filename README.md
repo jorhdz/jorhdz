@@ -11,6 +11,6 @@
 
 ![Text Img alt here](Ruta/de/imagen/aquí)
 
-<a href="https://www.linkedin.com/in/jorgehdzdev/" target="blank">
+<a href="https://www.linkedin.com/in/jorgehdzdev/" target="_blank">
   <img src= "https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg"/>
 </a>
